@@ -12,7 +12,7 @@ function App() {
       color: 'white'
     }}>
       <div className="font-sans max-w-2xl mx-auto bg-black-100 p-8 rounded-lg">
-        <img src="brain_logo.jpg" alt="logo" className="absolute top-0 left-0 w-16 h-9" /> 
+        <img src="brain_logo.jpg" alt="logo" className="absolute top-0 left-0 w-16 h-9" style={{ width: '350px', height: 'auto' }}/> 
         <h1 className="text-center text-white font-bold text-3xl mb-4">Brain Human Interface</h1>
         <section className="mb-4"></section>
       <section className="mb-4">
