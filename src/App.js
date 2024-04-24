@@ -60,6 +60,7 @@ function App() {
         <br></br>
         <p>The second company we have identified is Precision Neuroscience, founded in 2021 by Benjamin Rapoport, a cofounder of Neuralink, as well as Demetrios Papageorgiou and Mark Hettick. The company is focused on creating a device that requires the most minimally invasive surgery, and has performed human trials.</p>
         <br></br>
+        <img src="project.png" alt="Brain Human Interface" className="mx-auto mb-8 rounded-lg" style={{ width: '150px', height: 'auto' }}/> 
         <p>During our research, we made contact with Kostas Hatzianestis from Precision Neuroscience, and his comments are mentioned below.</p>
         <br></br>
         <p>The most important, and most vulnerable, members of this ecosystem are the patients undergoing the surgery.  At this time, all devices are being targeted towards disabled individuals.  Our chief concern is the privacy of the data of the user, which should be protected to the highest degree.  Disabled individuals have been historically marginalized, and a lapse in ethical procedures or regulations could have real consequences. Furthermore, individuals such as Elon Musk have expressed their desire to move beyond only disabled persons and produce implants for able-bodied individuals, which will drastically increase the scale of privacy concerns.</p>
