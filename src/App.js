@@ -67,7 +67,7 @@ function App() {
         </section><section>
         <p>These privacy concerns should therefore be addressed from the start, with comprehensive regulations for user privacy or an inclusion into HIPPA laws, which will ensure that the public is protected.</p>
  </section></section>
-<br></br>
+
       
       
       <section className="mb-4">
@@ -89,7 +89,7 @@ function App() {
             The customers should be fully informed and given the choice to not have their data collected or be able to opt out at any time.
 </p>
         
-<br></br>
+
       <section>
         <h2 className="text-white-600 font-bold text-lg mb-2">Lessons Learned</h2>
         <p>During the completion of this project, one of the lessons we learned was that ethical issues surrounding emerging technologies are complex and require careful consideration from multiple angles. Many times, issues like bias and prejudice can get in the way of properly examining ethics, therefore, it is important to be honest and impartial.
