@@ -38,16 +38,15 @@ function App() {
           Aside from unintentional data breaches, there is also the fact that as technology rapidly advances, oftentimes regulations are slow to keep up. 
           Regulations regarding the protection of this data is paramount. 
           There is concern about how HIPAA will apply to this technology and it is likely that laws and regulations will need to adapt to the protection of the vast amount and private nature of this data. 
-            The main issue is that direct-to-consumer products do not need to abide by HIPAA which means that as this becomes available to the general public, the limited protection that HIPAA provides will no longer protect consumer data 1. 
-            There is no current national standard for this neural data protection, leaving individual states to write their own regulations with varying degrees of protection .</p>
-          <br></br>
+            The main issue is that direct-to-consumer products do not need to abide by HIPAA which means that as this becomes available to the general public, the limited protection that HIPAA provides will no longer protect consumer data <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814252/" style={{ color: '#87CEEB' }}target="_blank">[1]</a>. 
+            There is no current national standard for this neural data protection, leaving individual states to write their own regulations with varying degrees of protection <a href="https://www.vox.com/future-perfect/24078512/brain-tech-privacy-rights-neurorights-colorado-yuste" style={{ color: '#87CEEB' }}target="_blank">[2]</a>.</p>
           <p>Our group believes that there must be a robust regulatory framework established to this emerging issue. 
             We also believe that this data is too valuable to play catch up with regulations as breaches inevitably occur. </p>
             <p>
             For this reason, our group believes that awareness needs to be raised in order to protect the most vulnerable. 
             We need to ensure that those receiving this implant are aware of the data privacy risks that this imposes. 
-            These early adopters are most at risk and should have the knowledge and agency to make informed decisions about the use of this neural interface technology3.
-            They should be aware that letting a device access their brain waves could mean they are risking “identity theft, password hacking, and blackmail” 4.</p>
+            These early adopters are most at risk and should have the knowledge and agency to make informed decisions about the use of this neural interface technology<a href="https://blogs.ischool.berkeley.edu/w231/2021/07/09/brain-machine-interfaces-and-neuralink-privacy-and-ethical-concerns/" style={{ color: '#87CEEB' }}target="_blank">[3]</a>.
+            They should be aware that letting a device access their brain waves could mean they are risking “identity theft, password hacking, and blackmail” <a href="https://www.fastcompany.com/91029453/unpacking-the-ethical-issues-swirling-around-neuralink" style={{ color: '#87CEEB' }}target="_blank">[4]</a>.</p>
             <p>It is necessary that Neuralink and other companies in this field are transparent and accountable with the handling, storage, and protection of user data.
 </p>
       </section>
@@ -88,16 +87,6 @@ function App() {
 </p>
         
 <br></br>
-       
-      <section>
-        <h2 className="text-white-600 font-bold text-lg mb-2">Societal Impact</h2>
-        <p>How will this affect society? What does this mean for our future?</p><br></br>
-      </section>
-      <section>
-        <h2 className="text-white-600 font-bold text-lg mb-2">Benefits</h2>
-        <p>Despite the danger involved, this technology could provide a lot of good outcomes on society</p>
-        <p> People with spinal injuries and other medical uses</p><br></br>
-      </section>
       <section>
         <h2 className="text-white-600 font-bold text-lg mb-2">Lessons Learned</h2>
         <p>During the completion of this project, one of the lessons we learned was that ethical issues surrounding emerging technologies are complex and require careful consideration from multiple angles. Many times, issues like bias and prejudice can get in the way of properly examining ethics, therefore, it is important to be honest and impartial.
