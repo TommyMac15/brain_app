@@ -55,7 +55,7 @@ function App() {
       <section className="mb-4">
         <h2 className="text-white-600 font-bold text-lg mb-2">Ecosystem</h2>
         <p>During our research, we identified two main companies that are focused on creating brain-machine interfaces.</p>
-        <br></br>
+      
         <p>The first, and most recognizable, company is Neuralink, as previously mentioned. Neuralink has performed human trials, and have reportedly enabled a paralyzed individual to control a computer mouse with their mind. The company has faced scrutiny for ethical issues realted to animal testing, and no employees responded to our requests for a comment.</p>
         <br></br>
         <p>The second company we have identified is Precision Neuroscience, founded in 2021 by Benjamin Rapoport, a cofounder of Neuralink, as well as Demetrios Papageorgiou and Mark Hettick. The company is focused on creating a device that requires the most minimally invasive surgery, and has performed human trials.</p>
@@ -64,10 +64,10 @@ function App() {
         <p>During our research, we made contact with Kostas Hatzianestis from Precision Neuroscience, and his comments are mentioned below.</p>
         <br></br>
         <p>The most important, and most vulnerable, members of this ecosystem are the patients undergoing the surgery.  At this time, all devices are being targeted towards disabled individuals.  Our chief concern is the privacy of the data of the user, which should be protected to the highest degree.  Disabled individuals have been historically marginalized, and a lapse in ethical procedures or regulations could have real consequences. Furthermore, individuals such as Elon Musk have expressed their desire to move beyond only disabled persons and produce implants for able-bodied individuals, which will drastically increase the scale of privacy concerns.</p>
-        <br></br>
+      
         <p>These privacy concerns should therefore be addressed from the start, with comprehensive regulations for user privacy or an inclusion into HIPPA laws, which will ensure that the public is protected.</p>
         </section>
-
+<br></br>
       
       
       <section className="mb-4">
@@ -77,12 +77,12 @@ function App() {
       <p>     In order to protect people’s private data one potential solution is to make sure that companies implement strong protocols that in the case the data gets hacked the hacker will not be able to see the data. 
         Luckily we talked with Kostas Hatzianestis, Head of Wireless and System Integration at Precision Neuroscience, and he assured us that “digital data encryption is common in protecting private data.” </p>
       </section>
-   <br></br> <p>   However when doing research on he subject we looked at other medical devices that also store data like Pacemakers. 
+    <p>   However when doing research on he subject we looked at other medical devices that also store data like Pacemakers. 
     Pacemakers are subject to strict regulations to ensure confidentiality and prevent unauthorized access. 
     They must adhere to laws such as HIPAA (Health Insurance Portability and Accountability Act). 
     The Neuralink however, since it is so new, has not had any sort of regulations placed on it. 
     Due to the fact that the implant will be on the brian it will have access to very sensitive information so it is important that regulations are put in place to protect the users. </p>
-          <br></br><p>   Another thing that can help solve this ethical dilemma is for Neuralink to be transparent with their users and inform them of everything that they plan to collect, and do with the data. 
+          <p>   Another thing that can help solve this ethical dilemma is for Neuralink to be transparent with their users and inform them of everything that they plan to collect, and do with the data. 
             The customers should be fully informed and given the choice to not have their data collected or be able to opt out at any time.
 </p>
         
