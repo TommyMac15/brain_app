@@ -107,7 +107,7 @@ function App() {
         <p>{"[3] https://blogs.ischool.berkeley.edu/w231/2021/07/09/brain-machine-interfaces-and-neuralink-privacy-and-ethical-concerns/"}</p>
         <p>{"[4] https://www.fastcompany.com/91029453/unpacking-the-ethical-issues-swirling-around-neuralink"}</p>
 
-        <br></br>
+      
         <h2 className="text-white-600 font-bold text-lg mb-2">People Contacted</h2>
         <p>Ruthie Forney</p>
         <p>  Product Development Leader at Precision Neuroscience</p>
