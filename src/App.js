@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,14 +5,16 @@ function App() {
     <div style={{
       display: 'flex',
       justifyContent: 'center',
-      alignItems: 'flex-start', // Align items to the top
+      alignItems: 'flex-start',
       height: '100vh', 
-      lineHeight: 1.5
+      lineHeight: 1.5,
+      backgroundColor: 'black',
+      color: 'white'
     }}>
-    <div className="font-sans max-w-2xl mx-auto bg-black-100 p-8 rounded-lg">
-    <img src="brain_logo.jpg" alt="logo" className="absolute top-0 left-0 w-32 h-18" /> 
-      <h1 className="text-center text-white font-bold text-3xl mb-4">Brain Human Interface</h1>
-
+      <div className="font-sans max-w-2xl mx-auto bg-black-100 p-8 rounded-lg">
+        <img src="brain_logo.jpg" alt="logo" className="absolute top-0 left-0 w-16 h-9" /> 
+        <h1 className="text-center text-white font-bold text-3xl mb-4">Brain Human Interface</h1>
+        <section className="mb-4"></section>
       <section className="mb-4">
         <h2 className="text-white-600 font-bold text-lg mb-2">Background</h2>
         <p>Neuralink is a company that is developing implantable brain–machine interfaces (BMIs). 
