@@ -45,7 +45,7 @@ function App() {
             <p>
             For this reason, our group believes that awareness needs to be raised in order to protect the most vulnerable. 
             We need to ensure that those receiving this implant are aware of the data privacy risks that this imposes. 
-            These early adopters are most at risk and should have the knowledge and agency to make informed decisions about the use of this neural interface technology<a href="https://blogs.ischool.berkeley.edu/w231/2021/07/09/brain-machine-interfaces-and-neuralink-privacy-and-ethical-concerns/" style={{ color: '#87CEEB' }}target="_blank">[3]</a>.
+            These early adopters are most at risk and should have the knowledge and agency to make informed decisions about the use of this neural interface technology <a href="https://blogs.ischool.berkeley.edu/w231/2021/07/09/brain-machine-interfaces-and-neuralink-privacy-and-ethical-concerns/" style={{ color: '#87CEEB' }}target="_blank">[3]</a>.
             They should be aware that letting a device access their brain waves could mean they are risking “identity theft, password hacking, and blackmail” <a href="https://www.fastcompany.com/91029453/unpacking-the-ethical-issues-swirling-around-neuralink" style={{ color: '#87CEEB' }}target="_blank">[4]</a>.</p>
             <p>It is necessary that Neuralink and other companies in this field are transparent and accountable with the handling, storage, and protection of user data.
 </p>
